@@ -1,0 +1,194 @@
+0	10:01:38.541	Renko Mod EURUSD,M1: uninit reason 9
+0	10:01:38.554	Renko Mod EURUSD,M1: uninit reason 9
+0	10:01:38.557	Renko Mod EURUSD,M1: uninit reason 9
+0	10:01:38.560	RenkoExpert EURUSD,M2: uninit reason 9
+0	10:01:38.561	ZigZag Arrow EURUSD,M2: uninit reason 9
+0	10:01:38.561	ASCTrend1i EURUSD,M2: uninit reason 9
+0	10:01:38.561	Laguerre-ACS1 EURUSD,M2: uninit reason 9
+0	10:01:38.561	PakuAK_Marblez EURUSD,M2: uninit reason 9
+0	10:01:38.561	ASCTrend-Tape EURUSD,M2: uninit reason 9
+0	10:01:38.563	RenkoExpert EURUSD,M2: uninit reason 9
+0	10:01:38.564	RenkoStreet_channel EURUSD,M2: uninit reason 9
+0	10:01:38.564	ZigZag Arrow EURUSD,M2: uninit reason 9
+0	10:01:38.564	Laguerre-ACS1 EURUSD,M2: uninit reason 9
+0	10:01:38.564	Laguerre-ACS1 EURUSD,M2: uninit reason 9
+0	10:01:38.564	PakuAK_Marblez EURUSD,M2: uninit reason 9
+0	10:01:38.564	RenkoExpert EURUSD,M215: uninit reason 9
+0	10:01:38.566	ZigZag Arrow EURUSD,M215: uninit reason 9
+0	10:01:38.566	ASCTrend1i EURUSD,M215: uninit reason 9
+0	10:01:38.566	Laguerre-ACS1 EURUSD,M215: uninit reason 9
+0	10:01:38.566	PakuAK_Marblez EURUSD,M215: uninit reason 9
+0	10:01:38.566	ASCTrend-Tape EURUSD,M215: uninit reason 9
+0	10:01:38.568	RenkoExpert EURUSD,M220: uninit reason 9
+0	10:01:38.569	ZigZag Arrow EURUSD,M220: uninit reason 9
+0	10:01:38.569	ASCTrend1i EURUSD,M220: uninit reason 9
+0	10:01:38.569	Laguerre-ACS1 EURUSD,M220: uninit reason 9
+0	10:01:38.569	PakuAK_Marblez EURUSD,M220: uninit reason 9
+0	10:01:38.569	ASCTrend-Tape EURUSD,M220: uninit reason 9
+0	10:01:38.571	Renko Mod USDJPY,M1: uninit reason 9
+0	10:01:38.573	Renko Mod USDJPY,M1: uninit reason 9
+0	10:01:38.575	Renko Mod USDJPY,M1: uninit reason 9
+0	10:01:38.578	RenkoExpert USDJPY,M210: uninit reason 9
+0	10:01:38.579	ZigZag Arrow USDJPY,M210: uninit reason 9
+0	10:01:38.579	ASCTrend1i USDJPY,M210: uninit reason 9
+0	10:01:38.579	Laguerre-ACS1 USDJPY,M210: uninit reason 9
+0	10:01:38.579	PakuAK_Marblez USDJPY,M210: uninit reason 9
+0	10:01:38.579	ASCTrend-Tape USDJPY,M210: uninit reason 9
+0	10:01:38.581	RenkoExpert USDJPY,M215: uninit reason 9
+0	10:01:38.582	ZigZag Arrow USDJPY,M215: uninit reason 9
+0	10:01:38.582	ASCTrend1i USDJPY,M215: uninit reason 9
+0	10:01:38.582	Laguerre-ACS1 USDJPY,M215: uninit reason 9
+0	10:01:38.582	PakuAK_Marblez USDJPY,M215: uninit reason 9
+0	10:01:38.582	ASCTrend-Tape USDJPY,M215: uninit reason 9
+0	10:01:38.584	RenkoExpert USDJPY,M220: uninit reason 9
+0	10:01:38.585	ZigZag Arrow USDJPY,M220: uninit reason 9
+0	10:01:38.585	ASCTrend1i USDJPY,M220: uninit reason 9
+0	10:01:38.585	Laguerre-ACS1 USDJPY,M220: uninit reason 9
+0	10:01:38.585	PakuAK_Marblez USDJPY,M220: uninit reason 9
+0	10:01:38.585	ASCTrend-Tape USDJPY,M220: uninit reason 9
+0	10:01:38.587	Renko Mod GBPUSD,M1: uninit reason 9
+0	10:01:38.589	RenkoExpert GBPUSD,M2: uninit reason 9
+0	10:01:38.590	ZigZag Arrow GBPUSD,M2: uninit reason 9
+0	10:01:38.590	ASCTrend1i GBPUSD,M2: uninit reason 9
+0	10:01:38.590	Laguerre-ACS1 GBPUSD,M2: uninit reason 9
+0	10:01:38.590	PakuAK_Marblez GBPUSD,M2: uninit reason 9
+0	10:01:38.590	ASCTrend-Tape GBPUSD,M2: uninit reason 9
+0	10:01:38.592	LSMA_Angle GBPUSD,M2: uninit reason 9
+0	10:01:38.592	TestBreakSignal AUDUSD,H4: uninit reason 9
+0	10:01:38.599	ASCTrend1i AUDUSD,H4: uninit reason 9
+0	10:01:38.599	Heiken Ashi AUDUSD,H4: uninit reason 9
+0	10:01:38.599	PakuAK_Marblez AUDUSD,H4: uninit reason 9
+0	10:01:38.599	GenesisMatrix 2.22 AUDUSD,H4: uninit reason 9
+0	10:01:38.604	Laguerre-ACS1 AUDUSD,H4: uninit reason 9
+0	10:01:38.604	Laguerre-ACS1 AUDUSD,H4: uninit reason 9
+0	10:01:38.604	ASCTrend-Tape AUDUSD,H4: uninit reason 9
+0	10:01:38.605	LSMA_Angle AUDUSD,H4: uninit reason 9
+0	10:01:38.605	TestGenesis EURUSD,H4: uninit reason 9
+0	10:01:38.619	Heiken Ashi EURUSD,H4: uninit reason 9
+0	10:01:38.619	ASCTrend1i EURUSD,H4: uninit reason 9
+0	10:01:38.619	GenesisMatrix 2.22 EURUSD,H4: uninit reason 9
+0	10:01:38.624	PakuAK_Marblez EURUSD,H4: uninit reason 9
+0	10:01:38.624	ASCTrend-Tape EURUSD,H4: uninit reason 9
+0	10:01:38.626	LSMA_Angle EURUSD,H4: uninit reason 9
+0	10:01:38.626	ASCTrend1i EURUSD,M2: uninit reason 9
+0	10:01:38.626	LSMA in Color EURUSD,M2: uninit reason 9
+0	10:01:38.626	Laguerre-ACS1 EURUSD,M2: uninit reason 9
+0	10:01:38.626	Laguerre-ACS1 EURUSD,M2: uninit reason 9
+0	10:01:38.626	LSMA_Angle EURUSD,M2: uninit reason 9
+0	10:01:38.626	LSMA_Angle EURUSD,M2: uninit reason 9
+0	10:01:38.626	Test_Ma_Angle EURUSD,H4: uninit reason 9
+0	10:01:38.629	ZigZag Arrow EURUSD,H4: uninit reason 9
+0	10:01:38.629	LSMA_Angle EURUSD,H4: uninit reason 9
+0	10:01:38.630	ASCTrend-Matrix 2TF EURUSD,H4: deinitialized
+0	10:01:38.630	ASCTrend-Matrix 2TF EURUSD,H4: uninit reason 9
+0	10:01:38.633	ASCTrend-Tape EURUSD,H4: uninit reason 9
+0	10:01:38.635	FX-Bay_MACD EURUSD,H4: uninit reason 9
+0	10:01:38.635	ZigZag Arrow EURUSD,M2: uninit reason 9
+0	10:01:38.635	ASCTrend-Tape EURUSD,M2: uninit reason 9
+0	10:01:38.637	LSMA_Angle EURUSD,M2: uninit reason 9
+0	10:01:38.637	TestBreakSignal EURUSD,H4: uninit reason 9
+0	10:01:38.643	Heiken Ashi EURUSD,H4: uninit reason 9
+0	10:01:38.643	ASCTrend1i EURUSD,H4: uninit reason 9
+0	10:01:38.643	GenesisMatrix 2.22 EURUSD,H4: uninit reason 9
+0	10:01:38.649	LSMA_Angle EURUSD,H4: uninit reason 9
+0	10:01:38.649	Heiken Ashi EURUSD,H4: uninit reason 9
+0	10:01:38.649	ASCTrend1i EURUSD,H4: uninit reason 9
+0	10:01:38.649	GenesisMatrix 2.22 EURUSD,H4: uninit reason 9
+0	10:01:38.655	Yesterday High & Low v2.0 EURUSD,H1: deinitialized
+0	10:01:38.655	Yesterday High & Low v2.0 EURUSD,H1: uninit reason 9
+0	10:01:39.013	Expert Renko Mod EURUSD,M1: removed
+0	10:01:39.027	Expert Renko Mod EURUSD,M1: removed
+0	10:01:39.035	Expert Renko Mod EURUSD,M1: removed
+0	10:01:39.040	Expert RenkoExpert EURUSD,M2: removed
+0	10:01:39.042	Custom indicator ZigZag Arrow EURUSD,M2: removed
+0	10:01:39.043	Custom indicator ASCTrend1i EURUSD,M2: removed
+0	10:01:39.045	Custom indicator Laguerre-ACS1 EURUSD,M2: removed
+0	10:01:39.047	Custom indicator PakuAK_Marblez EURUSD,M2: removed
+0	10:01:39.049	Custom indicator ASCTrend-Tape EURUSD,M2: removed
+0	10:01:39.053	Expert RenkoExpert EURUSD,M2: removed
+0	10:01:39.055	Custom indicator RenkoStreet_channel EURUSD,M2: removed
+0	10:01:39.055	Custom indicator ZigZag Arrow EURUSD,M2: removed
+0	10:01:39.057	Custom indicator Laguerre-ACS1 EURUSD,M2: removed
+0	10:01:39.059	Custom indicator Laguerre-ACS1 EURUSD,M2: removed
+0	10:01:39.061	Custom indicator PakuAK_Marblez EURUSD,M2: removed
+0	10:01:39.065	Expert RenkoExpert EURUSD,M215: removed
+0	10:01:39.066	Custom indicator ZigZag Arrow EURUSD,M215: removed
+0	10:01:39.068	Custom indicator ASCTrend1i EURUSD,M215: removed
+0	10:01:39.070	Custom indicator Laguerre-ACS1 EURUSD,M215: removed
+0	10:01:39.071	Custom indicator PakuAK_Marblez EURUSD,M215: removed
+0	10:01:39.073	Custom indicator ASCTrend-Tape EURUSD,M215: removed
+0	10:01:39.076	Expert RenkoExpert EURUSD,M220: removed
+0	10:01:39.077	Custom indicator ZigZag Arrow EURUSD,M220: removed
+0	10:01:39.078	Custom indicator ASCTrend1i EURUSD,M220: removed
+0	10:01:39.081	Custom indicator Laguerre-ACS1 EURUSD,M220: removed
+0	10:01:39.082	Custom indicator PakuAK_Marblez EURUSD,M220: removed
+0	10:01:39.084	Custom indicator ASCTrend-Tape EURUSD,M220: removed
+0	10:01:39.089	Expert Renko Mod USDJPY,M1: removed
+0	10:01:39.094	Expert Renko Mod USDJPY,M1: removed
+0	10:01:39.101	Expert Renko Mod USDJPY,M1: removed
+0	10:01:39.106	Expert RenkoExpert USDJPY,M210: removed
+0	10:01:39.107	Custom indicator ZigZag Arrow USDJPY,M210: removed
+0	10:01:39.109	Custom indicator ASCTrend1i USDJPY,M210: removed
+0	10:01:39.110	Custom indicator Laguerre-ACS1 USDJPY,M210: removed
+0	10:01:39.112	Custom indicator PakuAK_Marblez USDJPY,M210: removed
+0	10:01:39.113	Custom indicator ASCTrend-Tape USDJPY,M210: removed
+0	10:01:39.131	Expert RenkoExpert USDJPY,M215: removed
+0	10:01:39.133	Custom indicator ZigZag Arrow USDJPY,M215: removed
+0	10:01:39.134	Custom indicator ASCTrend1i USDJPY,M215: removed
+0	10:01:39.136	Custom indicator Laguerre-ACS1 USDJPY,M215: removed
+0	10:01:39.138	Custom indicator PakuAK_Marblez USDJPY,M215: removed
+0	10:01:39.139	Custom indicator ASCTrend-Tape USDJPY,M215: removed
+0	10:01:39.156	Expert RenkoExpert USDJPY,M220: removed
+0	10:01:39.157	Custom indicator ZigZag Arrow USDJPY,M220: removed
+0	10:01:39.159	Custom indicator ASCTrend1i USDJPY,M220: removed
+0	10:01:39.160	Custom indicator Laguerre-ACS1 USDJPY,M220: removed
+0	10:01:39.162	Custom indicator PakuAK_Marblez USDJPY,M220: removed
+0	10:01:39.164	Custom indicator ASCTrend-Tape USDJPY,M220: removed
+0	10:01:39.169	Expert Renko Mod GBPUSD,M1: removed
+0	10:01:39.187	Expert RenkoExpert GBPUSD,M2: removed
+0	10:01:39.188	Custom indicator ZigZag Arrow GBPUSD,M2: removed
+0	10:01:39.190	Custom indicator ASCTrend1i GBPUSD,M2: removed
+0	10:01:39.191	Custom indicator Laguerre-ACS1 GBPUSD,M2: removed
+0	10:01:39.193	Custom indicator PakuAK_Marblez GBPUSD,M2: removed
+0	10:01:39.195	Custom indicator ASCTrend-Tape GBPUSD,M2: removed
+0	10:01:39.197	Custom indicator LSMA_Angle GBPUSD,M2: removed
+0	10:01:39.201	Expert TestBreakSignal AUDUSD,H4: removed
+0	10:01:39.203	Custom indicator ASCTrend1i AUDUSD,H4: removed
+0	10:01:39.205	Custom indicator Heiken Ashi AUDUSD,H4: removed
+0	10:01:39.207	Custom indicator PakuAK_Marblez AUDUSD,H4: removed
+0	10:01:39.209	Custom indicator GenesisMatrix 2.22 AUDUSD,H4: removed
+0	10:01:39.211	Custom indicator Laguerre-ACS1 AUDUSD,H4: removed
+0	10:01:39.214	Custom indicator Laguerre-ACS1 AUDUSD,H4: removed
+0	10:01:39.215	Custom indicator ASCTrend-Tape AUDUSD,H4: removed
+0	10:01:39.217	Custom indicator LSMA_Angle AUDUSD,H4: removed
+0	10:01:39.221	Expert TestGenesis EURUSD,H4: removed
+0	10:01:39.224	Custom indicator Heiken Ashi EURUSD,H4: removed
+0	10:01:39.225	Custom indicator ASCTrend1i EURUSD,H4: removed
+0	10:01:39.227	Custom indicator GenesisMatrix 2.22 EURUSD,H4: removed
+0	10:01:39.229	Custom indicator PakuAK_Marblez EURUSD,H4: removed
+0	10:01:39.231	Custom indicator ASCTrend-Tape EURUSD,H4: removed
+0	10:01:39.233	Custom indicator LSMA_Angle EURUSD,H4: removed
+0	10:01:39.238	Custom indicator ASCTrend1i EURUSD,M2: removed
+0	10:01:39.240	Custom indicator LSMA in Color EURUSD,M2: removed
+0	10:01:39.242	Custom indicator Laguerre-ACS1 EURUSD,M2: removed
+0	10:01:39.243	Custom indicator Laguerre-ACS1 EURUSD,M2: removed
+0	10:01:39.245	Custom indicator LSMA_Angle EURUSD,M2: removed
+0	10:01:39.246	Custom indicator LSMA_Angle EURUSD,M2: removed
+0	10:01:39.250	Expert Test_Ma_Angle EURUSD,H4: removed
+0	10:01:39.252	Custom indicator ZigZag Arrow EURUSD,H4: removed
+0	10:01:39.253	Custom indicator LSMA_Angle EURUSD,H4: removed
+0	10:01:39.253	Custom indicator ASCTrend-Matrix 2TF EURUSD,H4: removed
+0	10:01:39.255	Custom indicator ASCTrend-Tape EURUSD,H4: removed
+0	10:01:39.257	Custom indicator FX-Bay_MACD EURUSD,H4: removed
+0	10:01:39.261	Custom indicator ZigZag Arrow EURUSD,M2: removed
+0	10:01:39.263	Custom indicator ASCTrend-Tape EURUSD,M2: removed
+0	10:01:39.264	Custom indicator LSMA_Angle EURUSD,M2: removed
+0	10:01:39.267	Expert TestBreakSignal EURUSD,H4: removed
+0	10:01:39.270	Custom indicator Heiken Ashi EURUSD,H4: removed
+0	10:01:39.272	Custom indicator ASCTrend1i EURUSD,H4: removed
+0	10:01:39.274	Custom indicator GenesisMatrix 2.22 EURUSD,H4: removed
+0	10:01:39.276	Custom indicator LSMA_Angle EURUSD,H4: removed
+0	10:01:39.290	Custom indicator Heiken Ashi EURUSD,H4: removed
+0	10:01:39.292	Custom indicator ASCTrend1i EURUSD,H4: removed
+0	10:01:39.294	Custom indicator GenesisMatrix 2.22 EURUSD,H4: removed
+0	10:01:39.301	Custom indicator Yesterday High & Low v2.0 EURUSD,H1: removed

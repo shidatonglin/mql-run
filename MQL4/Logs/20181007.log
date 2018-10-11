@@ -1,0 +1,123 @@
+0	10:31:19.736	Custom indicator Yesterday High & Low v2.0 EURUSD,H1: loaded successfully
+0	10:31:19.791	Custom indicator LSMA in Color EURUSD,H1: loaded successfully
+0	10:31:19.811	Custom indicator LSMA in Color EURUSD,H1: loaded successfully
+0	10:31:19.843	Custom indicator MajorTrend EURUSD,H1: loaded successfully
+0	10:31:19.871	Custom indicator AbsoluteStrength_v1.1july 30..1 EURUSD,H1: loaded successfully
+0	10:31:19.897	Custom indicator PakuAK_Marblez EURUSD,H1: loaded successfully
+0	10:31:19.921	Custom indicator Laguerre-ACS1 EURUSD,H1: loaded successfully
+0	10:31:19.935	Custom indicator Laguerre-ACS1 EURUSD,H1: loaded successfully
+0	10:31:19.937	Yesterday High & Low v2.0 EURUSD,H1: initialized
+0	10:31:19.948	LSMA in Color EURUSD,H1: initialized
+0	10:31:19.957	LSMA in Color EURUSD,H1: initialized
+0	10:31:19.967	MajorTrend EURUSD,H1: initialized
+0	10:31:19.977	AbsoluteStrength_v1.1july 30..1 EURUSD,H1: initialized
+0	10:31:19.986	PakuAK_Marblez EURUSD,H1: initialized
+0	10:31:19.994	Laguerre-ACS1 EURUSD,H1: initialized
+0	10:31:20.002	Laguerre-ACS1 EURUSD,H1: initialized
+0	10:31:29.434	Yesterday High & Low v2.0 EURUSD,H1: deinitialized
+0	10:31:29.434	Yesterday High & Low v2.0 EURUSD,H1: uninit reason 7
+0	10:31:29.434	LSMA in Color EURUSD,H1: uninit reason 7
+0	10:31:29.434	LSMA in Color EURUSD,H1: uninit reason 7
+0	10:31:29.434	MajorTrend EURUSD,H1: uninit reason 7
+0	10:31:29.434	AbsoluteStrength_v1.1july 30..1 EURUSD,H1: uninit reason 7
+0	10:31:29.434	PakuAK_Marblez EURUSD,H1: uninit reason 7
+0	10:31:29.435	Laguerre-ACS1 EURUSD,H1: uninit reason 7
+0	10:31:29.435	Laguerre-ACS1 EURUSD,H1: uninit reason 7
+0	10:31:29.435	Custom indicator Yesterday High & Low v2.0 EURUSD,H1: removed
+0	10:31:29.442	Custom indicator LSMA in Color EURUSD,H1: removed
+0	10:31:29.443	Custom indicator LSMA in Color EURUSD,H1: removed
+0	10:31:29.445	Custom indicator MajorTrend EURUSD,H1: removed
+0	10:31:29.447	Custom indicator AbsoluteStrength_v1.1july 30..1 EURUSD,H1: removed
+0	10:31:29.448	Custom indicator PakuAK_Marblez EURUSD,H1: removed
+0	10:31:29.450	Custom indicator Laguerre-ACS1 EURUSD,H1: removed
+0	10:31:29.452	Custom indicator Laguerre-ACS1 EURUSD,H1: removed
+0	10:31:38.676	Custom indicator Candle Timer EURUSD,H1: loaded successfully
+0	10:31:38.704	Custom indicator Davits Pivot V3.2 Auto EURUSD,H1: loaded successfully
+0	10:31:38.730	Custom indicator pipsometer decimal edit 2 EURUSD,H1: loaded successfully
+0	10:31:38.770	Custom indicator ZigZag Arrow EURUSD,H1: loaded successfully
+0	10:31:38.799	Custom indicator 3c turbo jrsx filtered EURUSD,H1: loaded successfully
+0	10:31:38.800	Candle Timer EURUSD,H1: initialized
+0	10:31:38.817	Davits Pivot V3.2 Auto EURUSD,H1: initialized
+0	10:31:38.828	pipsometer decimal edit 2 EURUSD,H1: initialized
+0	10:31:38.828	ZigZag Arrow EURUSD,H1: initialized
+0	10:31:38.837	3c turbo jrsx filtered EURUSD,H1: initialized
+0	10:31:51.258	Candle Timer EURUSD,H1: deinitialized
+0	10:31:51.258	Candle Timer EURUSD,H1: uninit reason 7
+0	10:31:51.258	Davits Pivot V3.2 Auto EURUSD,H1: uninit reason 7
+0	10:31:51.258	pipsometer decimal edit 2 EURUSD,H1: uninit reason 7
+0	10:31:51.258	ZigZag Arrow EURUSD,H1: uninit reason 7
+0	10:31:51.258	3c turbo jrsx filtered EURUSD,H1: uninit reason 7
+0	10:31:51.258	Custom indicator Candle Timer EURUSD,H1: removed
+0	10:31:51.260	Custom indicator Davits Pivot V3.2 Auto EURUSD,H1: removed
+0	10:31:51.261	Custom indicator pipsometer decimal edit 2 EURUSD,H1: removed
+0	10:31:51.261	Custom indicator ZigZag Arrow EURUSD,H1: removed
+0	10:31:51.262	Custom indicator 3c turbo jrsx filtered EURUSD,H1: removed
+0	10:31:51.316	Custom indicator Yesterday High & Low v2.0 EURUSD,H1: loaded successfully
+0	10:31:51.332	Custom indicator AbsoluteStrength_v1.1july 30..1 EURUSD,H1: loaded successfully
+0	10:31:51.333	Yesterday High & Low v2.0 EURUSD,H1: initialized
+0	10:31:51.343	AbsoluteStrength_v1.1july 30..1 EURUSD,H1: initialized
+0	10:32:03.377	AbsoluteStrength_v1.1july 30..1 EURUSD,H1: uninit reason 1
+0	10:32:03.379	Custom indicator AbsoluteStrength_v1.1july 30..1 EURUSD,H1: removed
+0	10:34:19.622	Expert Base64\base64_encode_decode EURUSD,H1: loaded successfully
+0	10:34:20.973	base64_encode_decode EURUSD,H1 inputs: inputtext=Text Example; 
+0	10:34:28.531	base64_encode_decode EURUSD,H1: initialized
+0	10:37:38.135	base64_encode_decode EURUSD,H1: uninit reason 5
+0	10:37:38.172	base64_encode_decode EURUSD,H1 inputs: inputtext=TongLinlin; 
+0	10:37:46.569	base64_encode_decode EURUSD,H1: initialized
+0	10:38:30.501	base64_encode_decode EURUSD,H1: uninit reason 5
+0	10:38:30.670	base64_encode_decode EURUSD,H1 inputs: inputtext=???; 
+0	10:38:33.368	base64_encode_decode EURUSD,H1: initialized
+0	10:47:32.485	base64_encode_decode EURUSD,H1: uninit reason 2
+0	10:47:32.487	Expert base64_encode_decode EURUSD,H1: removed
+0	10:47:32.516	Expert Base64\base64_encode_decode EURUSD,H1: loaded successfully
+0	10:47:32.532	base64_encode_decode EURUSD,H1: Initial data: size=44, string='The quick brown fox jumps over the lazy dog'
+0	10:47:32.532	base64_encode_decode EURUSD,H1: Encoded data: size=48 CFDAA8286F406CF8050FB7363E94C35101F046870C177A4885EB3E04286F54CD89A64921B5239E8FE5FD5EE0A13E182D
+0	10:47:32.532	base64_encode_decode EURUSD,H1: Decoded data: size=48, string='The quick brown fox jumps over the lazy dog'
+0	10:47:33.937	base64_encode_decode EURUSD,H1: initialized
+0	10:49:21.365	base64_encode_decode EURUSD,H1: uninit reason 2
+0	10:49:21.367	Expert base64_encode_decode EURUSD,H1: removed
+0	10:49:21.384	Expert Base64\base64_encode_decode EURUSD,H1: loaded successfully
+0	10:49:21.410	base64_encode_decode EURUSD,H1: Initial data: size=44, string='The quick brown fox jumps over the lazy dog'
+0	10:49:21.410	base64_encode_decode EURUSD,H1: Encoded data: size=48 CFDAA8286F406CF8050FB7363E94C35101F046870C177A4885EB3E04286F54CD89A64921B5239E8FE5FD5EE0A13E182D
+0	10:49:21.410	base64_encode_decode EURUSD,H1: Decoded data: size=48, string='The quick brown fox jumps over the lazy dog'
+0	10:49:21.410	base64_encode_decode EURUSD,H1: Base64Encode for '???' is : Pz8/
+Base64Decode for 'Pz8/' is : ???Result0
+0	10:49:21.410	base64_encode_decode EURUSD,H1: initialized
+0	10:50:35.865	base64_encode_decode EURUSD,H1: uninit reason 2
+0	10:50:35.867	Expert base64_encode_decode EURUSD,H1: removed
+0	10:50:35.885	Expert Base64\base64_encode_decode EURUSD,H1: loaded successfully
+0	10:50:35.901	base64_encode_decode EURUSD,H1: Initial data: size=44, string='The quick brown fox jumps over the lazy dog'
+0	10:50:35.901	base64_encode_decode EURUSD,H1: Encoded data: size=48 6B28F7ACFEC7126871C4934280E33DFCC2D9ED2462C3DE12423D0DEFB50758C50C6020A068E078CCC7B7F8C19A2DDC4C
+0	10:50:35.901	base64_encode_decode EURUSD,H1: Decoded data: size=48, string='The quick brown fox jumps over the lazy dog'
+0	10:50:35.901	base64_encode_decode EURUSD,H1: Base64Encode for '???' is : Pz8/
+Base64Decode for 'Pz8/' is : ???Result0
+0	10:50:35.901	base64_encode_decode EURUSD,H1: initialized
+0	10:51:11.486	base64_encode_decode EURUSD,H1: uninit reason 5
+0	10:51:11.488	base64_encode_decode EURUSD,H1: Initial data: size=44, string='The quick brown fox jumps over the lazy dog'
+0	10:51:11.488	base64_encode_decode EURUSD,H1: Encoded data: size=48 6B28F7ACFEC7126871C4934280E33DFCC2D9ED2462C3DE12423D0DEFB50758C50C6020A068E078CCC7B7F8C19A2DDC4C
+0	10:51:11.488	base64_encode_decode EURUSD,H1: Decoded data: size=48, string='The quick brown fox jumps over the lazy dog'
+0	10:51:11.488	base64_encode_decode EURUSD,H1: Base64Encode for 'Test Example' is : VGVzdCBFeGFtcGxl
+Base64Decode for 'VGVzdCBFeGFtcGxl' is : Test ExampleResult0
+0	10:51:11.488	base64_encode_decode EURUSD,H1: initialized
+0	10:51:11.523	base64_encode_decode EURUSD,H1 inputs: inputtext=Test Example; 
+0	11:01:03.049	Compiling 'Security\Protect-002'
+0	11:01:07.939	Compiling 'Security\Protect-003'
+0	11:01:11.172	Compiling 'Security\Protect-004'
+0	11:01:14.123	Compiling 'Security\Protect-005'
+0	11:01:17.696	Compiling 'Security\Protect-006'
+0	11:01:20.742	Compiling 'Security\Protect-006_decompiled'
+0	11:01:24.247	Compiling 'Security\Protect-006_Encoded'
+0	11:01:29.102	Compiling 'Security\Protect-006_Encoded_decompiled'
+0	11:01:32.187	Compiling 'Security\Protect-006_Open'
+0	11:01:54.292	base64_encode_decode EURUSD,H1: uninit reason 1
+0	11:01:54.295	Expert base64_encode_decode EURUSD,H1: removed
+0	11:02:07.713	Script Security\Protect-001 EURUSD,H1: loaded successfully
+0	11:02:07.730	Protect-001 EURUSD,H1: initialized
+0	11:02:07.730	Protect-001 EURUSD,H1: uninit reason 0
+0	11:02:07.733	Script Protect-001 EURUSD,H1: removed
+0	11:02:13.652	Script Security\Protect-002 EURUSD,H1: loaded successfully
+0	11:02:14.899	Protect-002 EURUSD,H1 inputs: prefix=char; text=input your text for encoding; 
+0	11:02:14.911	Protect-002 EURUSD,H1: initialized
+0	11:02:14.912	Protect-002 EURUSD,H1: /* input your text for encoding */ char[105]+char[110]+char[112]+char[117]+char[116]+char[32]+char[121]+char[111]+char[117]+char[114]+char[32]+char[116]+char[101]+char[120]+char[116]+char[32]+char[102]+char[111]+char[114]+char[32]+char[101]+char[110]+char[99]+char[111]+char[100]+char[105]+char[110]+char[103]
+0	11:02:14.912	Protect-002 EURUSD,H1: uninit reason 0
+0	11:02:14.913	Script Protect-002 EURUSD,H1: removed

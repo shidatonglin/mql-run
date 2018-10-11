@@ -1,0 +1,445 @@
+0	08:58:45.529	Renko Mod EURUSD,M1: uninit reason 9
+0	08:58:45.547	Renko Mod EURUSD,M1: uninit reason 9
+0	08:58:45.550	Renko Mod EURUSD,M1: uninit reason 9
+0	08:58:45.553	RenkoExpert EURUSD,M2: uninit reason 9
+0	08:58:45.554	ZigZag Arrow EURUSD,M2: uninit reason 9
+0	08:58:45.554	ASCTrend1i EURUSD,M2: uninit reason 9
+0	08:58:45.554	Laguerre-ACS1 EURUSD,M2: uninit reason 9
+0	08:58:45.554	PakuAK_Marblez EURUSD,M2: uninit reason 9
+0	08:58:45.554	ASCTrend-Tape EURUSD,M2: uninit reason 9
+0	08:58:45.558	RenkoExpert EURUSD,M2: uninit reason 9
+0	08:58:45.559	RenkoStreet_channel EURUSD,M2: uninit reason 9
+0	08:58:45.559	ZigZag Arrow EURUSD,M2: uninit reason 9
+0	08:58:45.559	Laguerre-ACS1 EURUSD,M2: uninit reason 9
+0	08:58:45.559	Laguerre-ACS1 EURUSD,M2: uninit reason 9
+0	08:58:45.559	PakuAK_Marblez EURUSD,M2: uninit reason 9
+0	08:58:45.560	RenkoExpert EURUSD,M215: uninit reason 9
+0	08:58:45.561	ZigZag Arrow EURUSD,M215: uninit reason 9
+0	08:58:45.561	ASCTrend1i EURUSD,M215: uninit reason 9
+0	08:58:45.561	Laguerre-ACS1 EURUSD,M215: uninit reason 9
+0	08:58:45.561	PakuAK_Marblez EURUSD,M215: uninit reason 9
+0	08:58:45.561	ASCTrend-Tape EURUSD,M215: uninit reason 9
+0	08:58:45.563	RenkoExpert EURUSD,M220: uninit reason 9
+0	08:58:45.564	ZigZag Arrow EURUSD,M220: uninit reason 9
+0	08:58:45.564	ASCTrend1i EURUSD,M220: uninit reason 9
+0	08:58:45.564	Laguerre-ACS1 EURUSD,M220: uninit reason 9
+0	08:58:45.564	PakuAK_Marblez EURUSD,M220: uninit reason 9
+0	08:58:45.564	ASCTrend-Tape EURUSD,M220: uninit reason 9
+0	08:58:45.566	Renko Mod USDJPY,M1: uninit reason 9
+0	08:58:45.568	Renko Mod USDJPY,M1: uninit reason 9
+0	08:58:45.571	Renko Mod USDJPY,M1: uninit reason 9
+0	08:58:45.574	RenkoExpert USDJPY,M210: uninit reason 9
+0	08:58:45.575	ZigZag Arrow USDJPY,M210: uninit reason 9
+0	08:58:45.575	ASCTrend1i USDJPY,M210: uninit reason 9
+0	08:58:45.575	Laguerre-ACS1 USDJPY,M210: uninit reason 9
+0	08:58:45.575	PakuAK_Marblez USDJPY,M210: uninit reason 9
+0	08:58:45.575	ASCTrend-Tape USDJPY,M210: uninit reason 9
+0	08:58:45.577	RenkoExpert USDJPY,M215: uninit reason 9
+0	08:58:45.578	ZigZag Arrow USDJPY,M215: uninit reason 9
+0	08:58:45.578	ASCTrend1i USDJPY,M215: uninit reason 9
+0	08:58:45.578	Laguerre-ACS1 USDJPY,M215: uninit reason 9
+0	08:58:45.578	PakuAK_Marblez USDJPY,M215: uninit reason 9
+0	08:58:45.579	ASCTrend-Tape USDJPY,M215: uninit reason 9
+0	08:58:45.580	RenkoExpert USDJPY,M220: uninit reason 9
+0	08:58:45.582	ZigZag Arrow USDJPY,M220: uninit reason 9
+0	08:58:45.582	ASCTrend1i USDJPY,M220: uninit reason 9
+0	08:58:45.582	Laguerre-ACS1 USDJPY,M220: uninit reason 9
+0	08:58:45.582	PakuAK_Marblez USDJPY,M220: uninit reason 9
+0	08:58:45.582	ASCTrend-Tape USDJPY,M220: uninit reason 9
+0	08:58:45.584	Renko Mod GBPUSD,M1: uninit reason 9
+0	08:58:45.586	RenkoExpert GBPUSD,M2: uninit reason 9
+0	08:58:45.587	ZigZag Arrow GBPUSD,M2: uninit reason 9
+0	08:58:45.587	ASCTrend1i GBPUSD,M2: uninit reason 9
+0	08:58:45.587	Laguerre-ACS1 GBPUSD,M2: uninit reason 9
+0	08:58:45.587	PakuAK_Marblez GBPUSD,M2: uninit reason 9
+0	08:58:45.587	ASCTrend-Tape GBPUSD,M2: uninit reason 9
+0	08:58:45.589	LSMA_Angle GBPUSD,M2: uninit reason 9
+0	08:58:45.589	TestBreakSignal AUDUSD,H4: uninit reason 9
+0	08:58:45.596	ASCTrend1i AUDUSD,H4: uninit reason 9
+0	08:58:45.596	Heiken Ashi AUDUSD,H4: uninit reason 9
+0	08:58:45.596	PakuAK_Marblez AUDUSD,H4: uninit reason 9
+0	08:58:45.596	GenesisMatrix 2.22 AUDUSD,H4: uninit reason 9
+0	08:58:45.603	Laguerre-ACS1 AUDUSD,H4: uninit reason 9
+0	08:58:45.603	Laguerre-ACS1 AUDUSD,H4: uninit reason 9
+0	08:58:45.603	ASCTrend-Tape AUDUSD,H4: uninit reason 9
+0	08:58:45.605	LSMA_Angle AUDUSD,H4: uninit reason 9
+0	08:58:45.605	TestGenesis EURUSD,H4: uninit reason 9
+0	08:58:45.617	Heiken Ashi EURUSD,H4: uninit reason 9
+0	08:58:45.617	ASCTrend1i EURUSD,H4: uninit reason 9
+0	08:58:45.617	GenesisMatrix 2.22 EURUSD,H4: uninit reason 9
+0	08:58:45.623	PakuAK_Marblez EURUSD,H4: uninit reason 9
+0	08:58:45.623	ASCTrend-Tape EURUSD,H4: uninit reason 9
+0	08:58:45.626	LSMA_Angle EURUSD,H4: uninit reason 9
+0	08:58:45.626	ASCTrend1i EURUSD,M2: uninit reason 9
+0	08:58:45.626	LSMA in Color EURUSD,M2: uninit reason 9
+0	08:58:45.626	Laguerre-ACS1 EURUSD,M2: uninit reason 9
+0	08:58:45.626	Laguerre-ACS1 EURUSD,M2: uninit reason 9
+0	08:58:45.626	LSMA_Angle EURUSD,M2: uninit reason 9
+0	08:58:45.626	LSMA_Angle EURUSD,M2: uninit reason 9
+0	08:58:45.626	Test_Ma_Angle EURUSD,H4: uninit reason 9
+0	08:58:45.628	ZigZag Arrow EURUSD,H4: uninit reason 9
+0	08:58:45.628	LSMA_Angle EURUSD,H4: uninit reason 9
+0	08:58:45.629	ASCTrend-Matrix 2TF EURUSD,H4: deinitialized
+0	08:58:45.629	ASCTrend-Matrix 2TF EURUSD,H4: uninit reason 9
+0	08:58:45.632	ASCTrend-Tape EURUSD,H4: uninit reason 9
+0	08:58:45.634	FX-Bay_MACD EURUSD,H4: uninit reason 9
+0	08:58:45.634	ZigZag Arrow EURUSD,M2: uninit reason 9
+0	08:58:45.634	ASCTrend-Tape EURUSD,M2: uninit reason 9
+0	08:58:45.636	LSMA_Angle EURUSD,M2: uninit reason 9
+0	08:58:45.636	TestBreakSignal EURUSD,H4: uninit reason 9
+0	08:58:45.642	Heiken Ashi EURUSD,H4: uninit reason 9
+0	08:58:45.642	ASCTrend1i EURUSD,H4: uninit reason 9
+0	08:58:45.642	GenesisMatrix 2.22 EURUSD,H4: uninit reason 9
+0	08:58:45.646	LSMA_Angle EURUSD,H4: uninit reason 9
+0	08:58:45.646	Heiken Ashi EURUSD,H4: uninit reason 9
+0	08:58:45.646	ASCTrend1i EURUSD,H4: uninit reason 9
+0	08:58:45.646	GenesisMatrix 2.22 EURUSD,H4: uninit reason 9
+0	08:58:45.652	Yesterday High & Low v2.0 EURUSD,H1: deinitialized
+0	08:58:45.652	Yesterday High & Low v2.0 EURUSD,H1: uninit reason 9
+0	08:58:46.018	Expert Renko Mod EURUSD,M1: removed
+0	08:58:46.028	Expert Renko Mod EURUSD,M1: removed
+0	08:58:46.034	Expert Renko Mod EURUSD,M1: removed
+0	08:58:46.042	Expert RenkoExpert EURUSD,M2: removed
+0	08:58:46.044	Custom indicator ZigZag Arrow EURUSD,M2: removed
+0	08:58:46.045	Custom indicator ASCTrend1i EURUSD,M2: removed
+0	08:58:46.047	Custom indicator Laguerre-ACS1 EURUSD,M2: removed
+0	08:58:46.048	Custom indicator PakuAK_Marblez EURUSD,M2: removed
+0	08:58:46.049	Custom indicator ASCTrend-Tape EURUSD,M2: removed
+0	08:58:46.053	Expert RenkoExpert EURUSD,M2: removed
+0	08:58:46.056	Custom indicator RenkoStreet_channel EURUSD,M2: removed
+0	08:58:46.056	Custom indicator ZigZag Arrow EURUSD,M2: removed
+0	08:58:46.059	Custom indicator Laguerre-ACS1 EURUSD,M2: removed
+0	08:58:46.060	Custom indicator Laguerre-ACS1 EURUSD,M2: removed
+0	08:58:46.062	Custom indicator PakuAK_Marblez EURUSD,M2: removed
+0	08:58:46.066	Expert RenkoExpert EURUSD,M215: removed
+0	08:58:46.067	Custom indicator ZigZag Arrow EURUSD,M215: removed
+0	08:58:46.069	Custom indicator ASCTrend1i EURUSD,M215: removed
+0	08:58:46.071	Custom indicator Laguerre-ACS1 EURUSD,M215: removed
+0	08:58:46.073	Custom indicator PakuAK_Marblez EURUSD,M215: removed
+0	08:58:46.075	Custom indicator ASCTrend-Tape EURUSD,M215: removed
+0	08:58:46.079	Expert RenkoExpert EURUSD,M220: removed
+0	08:58:46.080	Custom indicator ZigZag Arrow EURUSD,M220: removed
+0	08:58:46.082	Custom indicator ASCTrend1i EURUSD,M220: removed
+0	08:58:46.083	Custom indicator Laguerre-ACS1 EURUSD,M220: removed
+0	08:58:46.085	Custom indicator PakuAK_Marblez EURUSD,M220: removed
+0	08:58:46.086	Custom indicator ASCTrend-Tape EURUSD,M220: removed
+0	08:58:46.093	Expert Renko Mod USDJPY,M1: removed
+0	08:58:46.099	Expert Renko Mod USDJPY,M1: removed
+0	08:58:46.107	Expert Renko Mod USDJPY,M1: removed
+0	08:58:46.114	Expert RenkoExpert USDJPY,M210: removed
+0	08:58:46.115	Custom indicator ZigZag Arrow USDJPY,M210: removed
+0	08:58:46.117	Custom indicator ASCTrend1i USDJPY,M210: removed
+0	08:58:46.119	Custom indicator Laguerre-ACS1 USDJPY,M210: removed
+0	08:58:46.121	Custom indicator PakuAK_Marblez USDJPY,M210: removed
+0	08:58:46.124	Custom indicator ASCTrend-Tape USDJPY,M210: removed
+0	08:58:46.145	Expert RenkoExpert USDJPY,M215: removed
+0	08:58:46.147	Custom indicator ZigZag Arrow USDJPY,M215: removed
+0	08:58:46.149	Custom indicator ASCTrend1i USDJPY,M215: removed
+0	08:58:46.150	Custom indicator Laguerre-ACS1 USDJPY,M215: removed
+0	08:58:46.152	Custom indicator PakuAK_Marblez USDJPY,M215: removed
+0	08:58:46.154	Custom indicator ASCTrend-Tape USDJPY,M215: removed
+0	08:58:46.170	Expert RenkoExpert USDJPY,M220: removed
+0	08:58:46.171	Custom indicator ZigZag Arrow USDJPY,M220: removed
+0	08:58:46.173	Custom indicator ASCTrend1i USDJPY,M220: removed
+0	08:58:46.175	Custom indicator Laguerre-ACS1 USDJPY,M220: removed
+0	08:58:46.178	Custom indicator PakuAK_Marblez USDJPY,M220: removed
+0	08:58:46.180	Custom indicator ASCTrend-Tape USDJPY,M220: removed
+0	08:58:46.185	Expert Renko Mod GBPUSD,M1: removed
+0	08:58:46.203	Expert RenkoExpert GBPUSD,M2: removed
+0	08:58:46.205	Custom indicator ZigZag Arrow GBPUSD,M2: removed
+0	08:58:46.207	Custom indicator ASCTrend1i GBPUSD,M2: removed
+0	08:58:46.209	Custom indicator Laguerre-ACS1 GBPUSD,M2: removed
+0	08:58:46.211	Custom indicator PakuAK_Marblez GBPUSD,M2: removed
+0	08:58:46.212	Custom indicator ASCTrend-Tape GBPUSD,M2: removed
+0	08:58:46.213	Custom indicator LSMA_Angle GBPUSD,M2: removed
+0	08:58:46.218	Expert TestBreakSignal AUDUSD,H4: removed
+0	08:58:46.221	Custom indicator ASCTrend1i AUDUSD,H4: removed
+0	08:58:46.223	Custom indicator Heiken Ashi AUDUSD,H4: removed
+0	08:58:46.225	Custom indicator PakuAK_Marblez AUDUSD,H4: removed
+0	08:58:46.227	Custom indicator GenesisMatrix 2.22 AUDUSD,H4: removed
+0	08:58:46.228	Custom indicator Laguerre-ACS1 AUDUSD,H4: removed
+0	08:58:46.230	Custom indicator Laguerre-ACS1 AUDUSD,H4: removed
+0	08:58:46.231	Custom indicator ASCTrend-Tape AUDUSD,H4: removed
+0	08:58:46.234	Custom indicator LSMA_Angle AUDUSD,H4: removed
+0	08:58:46.239	Expert TestGenesis EURUSD,H4: removed
+0	08:58:46.242	Custom indicator Heiken Ashi EURUSD,H4: removed
+0	08:58:46.244	Custom indicator ASCTrend1i EURUSD,H4: removed
+0	08:58:46.246	Custom indicator GenesisMatrix 2.22 EURUSD,H4: removed
+0	08:58:46.247	Custom indicator PakuAK_Marblez EURUSD,H4: removed
+0	08:58:46.249	Custom indicator ASCTrend-Tape EURUSD,H4: removed
+0	08:58:46.251	Custom indicator LSMA_Angle EURUSD,H4: removed
+0	08:58:46.257	Custom indicator ASCTrend1i EURUSD,M2: removed
+0	08:58:46.259	Custom indicator LSMA in Color EURUSD,M2: removed
+0	08:58:46.261	Custom indicator Laguerre-ACS1 EURUSD,M2: removed
+0	08:58:46.263	Custom indicator Laguerre-ACS1 EURUSD,M2: removed
+0	08:58:46.264	Custom indicator LSMA_Angle EURUSD,M2: removed
+0	08:58:46.265	Custom indicator LSMA_Angle EURUSD,M2: removed
+0	08:58:46.282	Expert Test_Ma_Angle EURUSD,H4: removed
+0	08:58:46.283	Custom indicator ZigZag Arrow EURUSD,H4: removed
+0	08:58:46.285	Custom indicator LSMA_Angle EURUSD,H4: removed
+0	08:58:46.285	Custom indicator ASCTrend-Matrix 2TF EURUSD,H4: removed
+0	08:58:46.287	Custom indicator ASCTrend-Tape EURUSD,H4: removed
+0	08:58:46.290	Custom indicator FX-Bay_MACD EURUSD,H4: removed
+0	08:58:46.305	Custom indicator ZigZag Arrow EURUSD,M2: removed
+0	08:58:46.307	Custom indicator ASCTrend-Tape EURUSD,M2: removed
+0	08:58:46.310	Custom indicator LSMA_Angle EURUSD,M2: removed
+0	08:58:46.313	Expert TestBreakSignal EURUSD,H4: removed
+0	08:58:46.317	Custom indicator Heiken Ashi EURUSD,H4: removed
+0	08:58:46.319	Custom indicator ASCTrend1i EURUSD,H4: removed
+0	08:58:46.320	Custom indicator GenesisMatrix 2.22 EURUSD,H4: removed
+0	08:58:46.323	Custom indicator LSMA_Angle EURUSD,H4: removed
+0	08:58:46.329	Custom indicator Heiken Ashi EURUSD,H4: removed
+0	08:58:46.331	Custom indicator ASCTrend1i EURUSD,H4: removed
+0	08:58:46.333	Custom indicator GenesisMatrix 2.22 EURUSD,H4: removed
+0	08:58:46.341	Custom indicator Yesterday High & Low v2.0 EURUSD,H1: removed
+0	19:16:20.794	Expert Renko Mod EURUSD,M1: loaded successfully
+0	19:16:20.794	Renko Mod EURUSD,M1 inputs: RenkoBoxSize=10.0; RenkoBoxOffset=0; RenkoTimeFrame=2; ShowWicks=true; EmulateOnLineChart=true; BuildChartsWhenMarketOffline=true; note=== ATR Based Boxes ==; CalculateBestBoxSize=false; ATRPeriod=24; ATRTimeFrame=60; UseATRMA=true; MAMethod=0; MAPeriod=120; 
+0	19:16:20.886	Expert Renko Mod EURUSD,M1: loaded successfully
+0	19:16:20.886	Renko Mod EURUSD,M1 inputs: RenkoBoxSize=15.0; RenkoBoxOffset=0; RenkoTimeFrame=215; ShowWicks=true; EmulateOnLineChart=true; BuildChartsWhenMarketOffline=true; note=== ATR Based Boxes ==; CalculateBestBoxSize=false; ATRPeriod=24; ATRTimeFrame=60; UseATRMA=true; MAMethod=0; MAPeriod=120; 
+0	19:16:20.944	Expert Renko Mod EURUSD,M1: loaded successfully
+0	19:16:20.944	Renko Mod EURUSD,M1 inputs: RenkoBoxSize=20.0; RenkoBoxOffset=0; RenkoTimeFrame=220; ShowWicks=true; EmulateOnLineChart=true; BuildChartsWhenMarketOffline=true; note=== ATR Based Boxes ==; CalculateBestBoxSize=false; ATRPeriod=24; ATRTimeFrame=60; UseATRMA=true; MAMethod=0; MAPeriod=120; 
+0	19:16:21.005	Custom indicator ZigZag Arrow EURUSD,M2: loaded successfully
+0	19:16:21.019	Custom indicator ASCTrend1i EURUSD,M2: loaded successfully
+0	19:16:21.033	Custom indicator Laguerre-ACS1 EURUSD,M2: loaded successfully
+0	19:16:21.046	Custom indicator PakuAK_Marblez EURUSD,M2: loaded successfully
+0	19:16:21.061	Custom indicator ASCTrend-Tape EURUSD,M2: loaded successfully
+0	19:16:21.084	Expert Live\RenkoExpert EURUSD,M2: loaded successfully
+0	19:16:21.084	RenkoExpert EURUSD,M2 inputs: mm_type=1; stop_loss=500.0; take_profit=1000.0; stop_type_main=0; breakeven_value=200; breakeven_start=200; maperiod=14; mamethod=0; maapplied=0; signal_bar=1; magic_number=20181001; expert_commnets=RenkoExpert1001; 
+0	19:16:21.095	ZigZag Arrow EURUSD,M2: initialized
+0	19:16:21.105	ASCTrend1i EURUSD,M2: initialized
+0	19:16:21.114	Laguerre-ACS1 EURUSD,M2: initialized
+0	19:16:21.123	PakuAK_Marblez EURUSD,M2: initialized
+0	19:16:21.131	ASCTrend-Tape EURUSD,M2: initialized
+0	19:16:21.195	RenkoExpert EURUSD,M2: initialized
+0	19:16:21.204	Custom indicator RenkoStreet_channel EURUSD,M2: loaded successfully
+0	19:16:21.233	Custom indicator ZigZag Arrow EURUSD,M2: loaded successfully
+0	19:16:21.247	Custom indicator Laguerre-ACS1 EURUSD,M2: loaded successfully
+0	19:16:21.261	Custom indicator Laguerre-ACS1 EURUSD,M2: loaded successfully
+0	19:16:21.277	Custom indicator PakuAK_Marblez EURUSD,M2: loaded successfully
+0	19:16:21.296	Expert Live\RenkoExpert EURUSD,M2: loaded successfully
+0	19:16:21.296	RenkoExpert EURUSD,M2 inputs: mm_type=1; stop_loss=500.0; take_profit=1000.0; stop_type_main=0; breakeven_value=200; breakeven_start=200; maperiod=14; mamethod=0; maapplied=0; signal_bar=1; magic_number=20181001; expert_commnets=RenkoExpert1001; 
+0	19:16:21.304	RenkoStreet_channel EURUSD,M2: initialized
+0	19:16:21.304	ZigZag Arrow EURUSD,M2: initialized
+0	19:16:21.312	Laguerre-ACS1 EURUSD,M2: initialized
+0	19:16:21.320	Laguerre-ACS1 EURUSD,M2: initialized
+0	19:16:21.328	PakuAK_Marblez EURUSD,M2: initialized
+0	19:16:21.369	RenkoExpert EURUSD,M2: initialized
+0	19:16:21.394	Custom indicator ZigZag Arrow EURUSD,M215: loaded successfully
+0	19:16:21.409	Custom indicator ASCTrend1i EURUSD,M215: loaded successfully
+0	19:16:21.423	Custom indicator Laguerre-ACS1 EURUSD,M215: loaded successfully
+0	19:16:21.438	Custom indicator PakuAK_Marblez EURUSD,M215: loaded successfully
+0	19:16:21.452	Custom indicator ASCTrend-Tape EURUSD,M215: loaded successfully
+0	19:16:21.470	Expert Live\RenkoExpert EURUSD,M215: loaded successfully
+0	19:16:21.470	RenkoExpert EURUSD,M215 inputs: mm_type=1; stop_loss=500.0; take_profit=1000.0; stop_type_main=0; breakeven_value=200; breakeven_start=200; maperiod=14; mamethod=0; maapplied=0; signal_bar=1; magic_number=20181001; expert_commnets=RenkoExpert1001; 
+0	19:16:21.484	ZigZag Arrow EURUSD,M215: initialized
+0	19:16:21.492	ASCTrend1i EURUSD,M215: initialized
+0	19:16:21.500	Laguerre-ACS1 EURUSD,M215: initialized
+0	19:16:21.510	PakuAK_Marblez EURUSD,M215: initialized
+0	19:16:21.522	ASCTrend-Tape EURUSD,M215: initialized
+0	19:16:21.599	RenkoExpert EURUSD,M215: initialized
+0	19:16:21.619	Custom indicator ZigZag Arrow EURUSD,M220: loaded successfully
+0	19:16:21.633	Custom indicator ASCTrend1i EURUSD,M220: loaded successfully
+0	19:16:21.646	Custom indicator Laguerre-ACS1 EURUSD,M220: loaded successfully
+0	19:16:21.660	Custom indicator PakuAK_Marblez EURUSD,M220: loaded successfully
+0	19:16:21.674	Custom indicator ASCTrend-Tape EURUSD,M220: loaded successfully
+0	19:16:21.693	Expert Live\RenkoExpert EURUSD,M220: loaded successfully
+0	19:16:21.693	RenkoExpert EURUSD,M220 inputs: mm_type=1; stop_loss=500.0; take_profit=1000.0; stop_type_main=0; breakeven_value=200; breakeven_start=200; maperiod=14; mamethod=0; maapplied=0; signal_bar=1; magic_number=20181001; expert_commnets=RenkoExpert1001; 
+0	19:16:21.730	ZigZag Arrow EURUSD,M220: initialized
+0	19:16:21.738	ASCTrend1i EURUSD,M220: initialized
+0	19:16:21.746	Laguerre-ACS1 EURUSD,M220: initialized
+0	19:16:21.754	PakuAK_Marblez EURUSD,M220: initialized
+0	19:16:21.762	ASCTrend-Tape EURUSD,M220: initialized
+0	19:16:21.827	RenkoExpert EURUSD,M220: initialized
+0	19:16:21.849	Expert Renko Mod USDJPY,M1: loaded successfully
+0	19:16:21.849	Renko Mod USDJPY,M1 inputs: RenkoBoxSize=10.0; RenkoBoxOffset=0; RenkoTimeFrame=210; ShowWicks=true; EmulateOnLineChart=true; BuildChartsWhenMarketOffline=true; note=== ATR Based Boxes ==; CalculateBestBoxSize=false; ATRPeriod=24; ATRTimeFrame=60; UseATRMA=true; MAMethod=0; MAPeriod=120; 
+0	19:16:21.932	Expert Renko Mod USDJPY,M1: loaded successfully
+0	19:16:21.932	Renko Mod USDJPY,M1 inputs: RenkoBoxSize=15.0; RenkoBoxOffset=0; RenkoTimeFrame=215; ShowWicks=true; EmulateOnLineChart=true; BuildChartsWhenMarketOffline=true; note=== ATR Based Boxes ==; CalculateBestBoxSize=false; ATRPeriod=24; ATRTimeFrame=60; UseATRMA=true; MAMethod=0; MAPeriod=120; 
+0	19:16:21.993	Expert Renko Mod USDJPY,M1: loaded successfully
+0	19:16:21.993	Renko Mod USDJPY,M1 inputs: RenkoBoxSize=20.0; RenkoBoxOffset=0; RenkoTimeFrame=220; ShowWicks=true; EmulateOnLineChart=true; BuildChartsWhenMarketOffline=true; note=== ATR Based Boxes ==; CalculateBestBoxSize=false; ATRPeriod=24; ATRTimeFrame=60; UseATRMA=true; MAMethod=0; MAPeriod=120; 
+0	19:16:22.053	Custom indicator ZigZag Arrow USDJPY,M210: loaded successfully
+0	19:16:22.067	Custom indicator ASCTrend1i USDJPY,M210: loaded successfully
+0	19:16:22.081	Custom indicator Laguerre-ACS1 USDJPY,M210: loaded successfully
+0	19:16:22.096	Custom indicator PakuAK_Marblez USDJPY,M210: loaded successfully
+0	19:16:22.110	Custom indicator ASCTrend-Tape USDJPY,M210: loaded successfully
+0	19:16:22.129	Expert Live\RenkoExpert USDJPY,M210: loaded successfully
+0	19:16:22.129	RenkoExpert USDJPY,M210 inputs: mm_type=1; stop_loss=500.0; take_profit=1000.0; stop_type_main=0; breakeven_value=200; breakeven_start=200; maperiod=14; mamethod=0; maapplied=0; signal_bar=1; magic_number=20181001; expert_commnets=RenkoExpert1001; 
+0	19:16:22.141	ZigZag Arrow USDJPY,M210: initialized
+0	19:16:22.149	ASCTrend1i USDJPY,M210: initialized
+0	19:16:22.158	Laguerre-ACS1 USDJPY,M210: initialized
+0	19:16:22.167	PakuAK_Marblez USDJPY,M210: initialized
+0	19:16:22.176	ASCTrend-Tape USDJPY,M210: initialized
+0	19:16:22.238	RenkoExpert USDJPY,M210: initialized
+0	19:16:22.264	Custom indicator ZigZag Arrow USDJPY,M215: loaded successfully
+0	19:16:22.279	Custom indicator ASCTrend1i USDJPY,M215: loaded successfully
+0	19:16:22.292	Custom indicator Laguerre-ACS1 USDJPY,M215: loaded successfully
+0	19:16:22.307	Custom indicator PakuAK_Marblez USDJPY,M215: loaded successfully
+0	19:16:22.321	Custom indicator ASCTrend-Tape USDJPY,M215: loaded successfully
+0	19:16:22.340	Expert Live\RenkoExpert USDJPY,M215: loaded successfully
+0	19:16:22.340	RenkoExpert USDJPY,M215 inputs: mm_type=1; stop_loss=500.0; take_profit=1000.0; stop_type_main=0; breakeven_value=200; breakeven_start=200; maperiod=14; mamethod=0; maapplied=0; signal_bar=1; magic_number=20181001; expert_commnets=RenkoExpert1001; 
+0	19:16:22.350	ZigZag Arrow USDJPY,M215: initialized
+0	19:16:22.360	ASCTrend1i USDJPY,M215: initialized
+0	19:16:22.368	Laguerre-ACS1 USDJPY,M215: initialized
+0	19:16:22.376	PakuAK_Marblez USDJPY,M215: initialized
+0	19:16:22.384	ASCTrend-Tape USDJPY,M215: initialized
+0	19:16:22.446	RenkoExpert USDJPY,M215: initialized
+0	19:16:22.483	Custom indicator ZigZag Arrow USDJPY,M220: loaded successfully
+0	19:16:22.497	Custom indicator ASCTrend1i USDJPY,M220: loaded successfully
+0	19:16:22.511	Custom indicator Laguerre-ACS1 USDJPY,M220: loaded successfully
+0	19:16:22.524	Custom indicator PakuAK_Marblez USDJPY,M220: loaded successfully
+0	19:16:22.538	Custom indicator ASCTrend-Tape USDJPY,M220: loaded successfully
+0	19:16:22.557	Expert Live\RenkoExpert USDJPY,M220: loaded successfully
+0	19:16:22.557	RenkoExpert USDJPY,M220 inputs: mm_type=1; stop_loss=500.0; take_profit=1000.0; stop_type_main=0; breakeven_value=200; breakeven_start=200; maperiod=14; mamethod=0; maapplied=0; signal_bar=1; magic_number=20181001; expert_commnets=RenkoExpert1001; 
+0	19:16:22.567	ZigZag Arrow USDJPY,M220: initialized
+0	19:16:22.575	ASCTrend1i USDJPY,M220: initialized
+0	19:16:22.583	Laguerre-ACS1 USDJPY,M220: initialized
+0	19:16:22.591	PakuAK_Marblez USDJPY,M220: initialized
+0	19:16:22.599	ASCTrend-Tape USDJPY,M220: initialized
+0	19:16:22.659	RenkoExpert USDJPY,M220: initialized
+0	19:16:22.695	Expert Renko Mod GBPUSD,M1: loaded successfully
+0	19:16:22.695	Renko Mod GBPUSD,M1 inputs: RenkoBoxSize=5.0; RenkoBoxOffset=0; RenkoTimeFrame=2; ShowWicks=true; EmulateOnLineChart=true; BuildChartsWhenMarketOffline=true; note=== ATR Based Boxes ==; CalculateBestBoxSize=false; ATRPeriod=24; ATRTimeFrame=60; UseATRMA=true; MAMethod=0; MAPeriod=120; 
+0	19:16:22.786	Custom indicator ZigZag Arrow GBPUSD,M2: loaded successfully
+0	19:16:22.800	Custom indicator ASCTrend1i GBPUSD,M2: loaded successfully
+0	19:16:22.814	Custom indicator Laguerre-ACS1 GBPUSD,M2: loaded successfully
+0	19:16:22.827	Custom indicator PakuAK_Marblez GBPUSD,M2: loaded successfully
+0	19:16:22.841	Custom indicator ASCTrend-Tape GBPUSD,M2: loaded successfully
+0	19:16:22.856	Custom indicator LSMA_Angle GBPUSD,M2: loaded successfully
+0	19:16:22.875	Expert Live\RenkoExpert GBPUSD,M2: loaded successfully
+0	19:16:22.875	RenkoExpert GBPUSD,M2 inputs: mm_type=1; stop_loss=500.0; take_profit=1000.0; stop_type_main=0; breakeven_value=200; breakeven_start=200; maperiod=14; mamethod=0; maapplied=0; signal_bar=1; magic_number=20181001; expert_commnets=RenkoExpert1001; 
+0	19:16:22.889	ZigZag Arrow GBPUSD,M2: initialized
+0	19:16:22.897	ASCTrend1i GBPUSD,M2: initialized
+0	19:16:22.904	Laguerre-ACS1 GBPUSD,M2: initialized
+0	19:16:22.912	PakuAK_Marblez GBPUSD,M2: initialized
+0	19:16:22.920	ASCTrend-Tape GBPUSD,M2: initialized
+0	19:16:22.930	LSMA_Angle GBPUSD,M2: initialized
+0	19:16:23.005	RenkoExpert GBPUSD,M2: initialized
+0	19:16:23.027	Custom indicator ASCTrend1i AUDUSD,H4: loaded successfully
+0	19:16:23.041	Custom indicator Heiken Ashi AUDUSD,H4: loaded successfully
+0	19:16:23.055	Custom indicator PakuAK_Marblez AUDUSD,H4: loaded successfully
+0	19:16:23.071	Custom indicator GenesisMatrix 2.22 AUDUSD,H4: loaded successfully
+0	19:16:23.086	Custom indicator Laguerre-ACS1 AUDUSD,H4: loaded successfully
+0	19:16:23.100	Custom indicator Laguerre-ACS1 AUDUSD,H4: loaded successfully
+0	19:16:23.115	Custom indicator ASCTrend-Tape AUDUSD,H4: loaded successfully
+0	19:16:23.129	Custom indicator LSMA_Angle AUDUSD,H4: loaded successfully
+0	19:16:23.143	Expert Test\TestBreakSignal AUDUSD,H4: loaded successfully
+0	19:16:23.143	TestBreakSignal AUDUSD,H4 inputs: fast_period=12; slow_period=24; bbmacd_signal_period=9; std=1.1; 
+0	19:16:23.167	ASCTrend1i AUDUSD,H4: initialized
+0	19:16:23.176	Heiken Ashi AUDUSD,H4: initialized
+0	19:16:23.186	PakuAK_Marblez AUDUSD,H4: initialized
+0	19:16:23.200	GenesisMatrix 2.22 AUDUSD,H4: initialized
+0	19:16:23.210	Laguerre-ACS1 AUDUSD,H4: initialized
+0	19:16:23.218	Laguerre-ACS1 AUDUSD,H4: initialized
+0	19:16:23.227	ASCTrend-Tape AUDUSD,H4: initialized
+0	19:16:23.235	LSMA_Angle AUDUSD,H4: initialized
+0	19:16:23.411	Custom indicator Heiken Ashi EURUSD,H4: loaded successfully
+0	19:16:23.425	Custom indicator ASCTrend1i EURUSD,H4: loaded successfully
+0	19:16:23.440	Custom indicator GenesisMatrix 2.22 EURUSD,H4: loaded successfully
+0	19:16:23.455	Custom indicator PakuAK_Marblez EURUSD,H4: loaded successfully
+0	19:16:23.469	Custom indicator ASCTrend-Tape EURUSD,H4: loaded successfully
+0	19:16:23.484	Custom indicator LSMA_Angle EURUSD,H4: loaded successfully
+0	19:16:23.497	Expert Test\TestGenesis EURUSD,H4: loaded successfully
+0	19:16:23.498	TestGenesis EURUSD,H4 inputs: fast_period=12; slow_period=24; signal_period=9; std=1.1; 
+0	19:16:23.526	Heiken Ashi EURUSD,H4: initialized
+0	19:16:23.534	ASCTrend1i EURUSD,H4: initialized
+0	19:16:23.545	GenesisMatrix 2.22 EURUSD,H4: initialized
+0	19:16:23.554	PakuAK_Marblez EURUSD,H4: initialized
+0	19:16:23.561	ASCTrend-Tape EURUSD,H4: initialized
+0	19:16:23.570	LSMA_Angle EURUSD,H4: initialized
+0	19:16:23.784	Custom indicator ASCTrend1i EURUSD,M2: loaded successfully
+0	19:16:23.798	Custom indicator LSMA in Color EURUSD,M2: loaded successfully
+0	19:16:23.812	Custom indicator Laguerre-ACS1 EURUSD,M2: loaded successfully
+0	19:16:23.825	Custom indicator Laguerre-ACS1 EURUSD,M2: loaded successfully
+0	19:16:23.840	Custom indicator LSMA_Angle EURUSD,M2: loaded successfully
+0	19:16:23.854	Custom indicator LSMA_Angle EURUSD,M2: loaded successfully
+0	19:16:23.862	ASCTrend1i EURUSD,M2: initialized
+0	19:16:23.872	LSMA in Color EURUSD,M2: initialized
+0	19:16:23.879	Laguerre-ACS1 EURUSD,M2: initialized
+0	19:16:23.887	Laguerre-ACS1 EURUSD,M2: initialized
+0	19:16:23.895	LSMA_Angle EURUSD,M2: initialized
+0	19:16:23.903	LSMA_Angle EURUSD,M2: initialized
+0	19:16:23.995	Custom indicator ZigZag Arrow EURUSD,H4: loaded successfully
+0	19:16:24.010	Custom indicator LSMA_Angle EURUSD,H4: loaded successfully
+0	19:16:24.039	Custom indicator ASCTrend-Matrix 2TF EURUSD,H4: loaded successfully
+0	19:16:24.054	Custom indicator ASCTrend-Tape EURUSD,H4: loaded successfully
+0	19:16:24.070	Custom indicator FX-Bay_MACD EURUSD,H4: loaded successfully
+0	19:16:24.083	Expert Test\Test_Ma_Angle EURUSD,H4: loaded successfully
+0	19:16:24.084	ZigZag Arrow EURUSD,H4: initialized
+0	19:16:24.093	LSMA_Angle EURUSD,H4: initialized
+0	19:16:24.093	ASCTrend-Matrix 2TF EURUSD,H4: initialized
+0	19:16:24.101	ASCTrend-Tape EURUSD,H4: initialized
+0	19:16:24.109	FX-Bay_MACD EURUSD,H4: initialized
+0	19:16:24.316	Custom indicator ZigZag Arrow EURUSD,M2: loaded successfully
+0	19:16:24.331	Custom indicator ASCTrend-Tape EURUSD,M2: loaded successfully
+0	19:16:24.344	Custom indicator LSMA_Angle EURUSD,M2: loaded successfully
+0	19:16:24.345	ZigZag Arrow EURUSD,M2: initialized
+0	19:16:24.354	ASCTrend-Tape EURUSD,M2: initialized
+0	19:16:24.362	LSMA_Angle EURUSD,M2: initialized
+0	19:16:24.447	Custom indicator Heiken Ashi EURUSD,H4: loaded successfully
+0	19:16:24.462	Custom indicator ASCTrend1i EURUSD,H4: loaded successfully
+0	19:16:24.476	Custom indicator GenesisMatrix 2.22 EURUSD,H4: loaded successfully
+0	19:16:24.491	Custom indicator LSMA_Angle EURUSD,H4: loaded successfully
+0	19:16:24.505	Expert Test\TestBreakSignal EURUSD,H4: loaded successfully
+0	19:16:24.505	TestBreakSignal EURUSD,H4 inputs: fast_period=12; slow_period=24; bbmacd_signal_period=9; std=1.1; 
+0	19:16:24.516	Heiken Ashi EURUSD,H4: initialized
+0	19:16:24.524	ASCTrend1i EURUSD,H4: initialized
+0	19:16:24.535	GenesisMatrix 2.22 EURUSD,H4: initialized
+0	19:16:24.543	LSMA_Angle EURUSD,H4: initialized
+0	19:16:24.724	Custom indicator Heiken Ashi EURUSD,H4: loaded successfully
+0	19:16:24.738	Custom indicator ASCTrend1i EURUSD,H4: loaded successfully
+0	19:16:24.754	Custom indicator GenesisMatrix 2.22 EURUSD,H4: loaded successfully
+0	19:16:24.763	Heiken Ashi EURUSD,H4: initialized
+0	19:16:24.771	ASCTrend1i EURUSD,H4: initialized
+0	19:16:24.783	GenesisMatrix 2.22 EURUSD,H4: initialized
+0	19:16:24.968	Custom indicator Yesterday High & Low v2.0 EURUSD,H1: loaded successfully
+0	19:16:24.985	Yesterday High & Low v2.0 EURUSD,H1: initialized
+0	19:16:32.781	TestBreakSignal AUDUSD,H4: start to test
+0	19:16:32.793	TestBreakSignal EURUSD,H4: start to test
+0	19:16:32.855	Test_Ma_Angle EURUSD,H4: up->, 3, 59, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 87, 88, 95, 96, 97, 98, 99
+0	19:16:32.855	Test_Ma_Angle EURUSD,H4: down->, 10, 11, 12, 13, 14, 15, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 45, 46, 47, 48, 49, 80
+0	19:16:32.855	Test_Ma_Angle EURUSD,H4: zero->, 0, 1, 2, 4, 5, 6, 7, 8, 9, 16, 17, 18, 19, 20, 43, 44, 50, 51, 52, 53, 54, 55, 56, 57, 58, 60, 73, 74, 75, 76, 77, 78, 79, 81, 82, 83, 84, 85, 86, 89, 90, 91, 92, 93, 94
+0	19:16:32.855	Test_Ma_Angle EURUSD,H4: ->0 up-->0.0 down-->0.0 zero-->-4.992692307687063
+0	19:16:32.855	Test_Ma_Angle EURUSD,H4: ->1 up-->0.0 down-->0.0 zero-->6.31846153845983
+0	19:16:32.855	Test_Ma_Angle EURUSD,H4: ->2 up-->0.0 down-->0.0 zero-->14.6949999999979
+0	19:16:32.855	Test_Ma_Angle EURUSD,H4: ->3 up-->18.60153846153512 down-->0.0 zero-->0.0
+0	19:16:32.855	Test_Ma_Angle EURUSD,H4: ->4 up-->0.0 down-->0.0 zero-->11.24730769229698
+0	19:16:32.855	Test_Ma_Angle EURUSD,H4: ->5 up-->0.0 down-->0.0 zero-->9.009999999998186
+0	19:16:32.855	Test_Ma_Angle EURUSD,H4: ->6 up-->0.0 down-->0.0 zero-->4.016153846153614
+0	19:16:32.855	Test_Ma_Angle EURUSD,H4: ->7 up-->0.0 down-->0.0 zero-->-3.412692307683263
+0	19:16:32.855	Test_Ma_Angle EURUSD,H4: ->8 up-->0.0 down-->0.0 zero-->-6.513846153838321
+0	19:16:32.855	Test_Ma_Angle EURUSD,H4: ->9 up-->0.0 down-->0.0 zero-->-10.23961538461626
+0	19:16:32.855	Test_Ma_Angle EURUSD,H4: initialized
+0	19:16:32.871	Renko Mod USDJPY,M1: Chart window detected
+0	19:16:32.871	Renko Mod USDJPY,M1: initialized
+0	19:16:32.875	Renko Mod GBPUSD,M1: Chart window detected
+0	19:16:32.875	Renko Mod GBPUSD,M1: initialized
+0	19:16:32.881	Renko Mod USDJPY,M1: Chart window detected
+0	19:16:32.881	Renko Mod USDJPY,M1: initialized
+0	19:16:32.884	Renko Mod EURUSD,M1: Chart window detected
+0	19:16:32.884	Renko Mod EURUSD,M1: initialized
+0	19:16:32.903	Renko Mod EURUSD,M1: Chart window detected
+0	19:16:32.903	Renko Mod EURUSD,M1: initialized
+0	19:16:32.904	Renko Mod USDJPY,M1: Chart window detected
+0	19:16:32.904	Renko Mod USDJPY,M1: initialized
+0	19:16:32.997	TestBreakSignal AUDUSD,H4: Buy 0 Time :2018.10.08 12:00:00---->1
+0	19:16:32.999	TestBreakSignal AUDUSD,H4: Buy 35 Time :2018.09.28 16:00:00---->1
+0	19:16:32.999	TestBreakSignal AUDUSD,H4: Buy 49 Time :2018.09.26 08:00:00---->1
+0	19:16:33.000	TestBreakSignal AUDUSD,H4: Sell 65 Time :2018.09.21 16:00:00---->1
+0	19:16:33.001	TestBreakSignal EURUSD,H4: Sell 47 Time :2018.09.26 16:00:00---->1
+0	19:16:33.001	TestBreakSignal EURUSD,H4: Sell 48 Time :2018.09.26 12:00:00---->1
+0	19:16:33.002	TestBreakSignal EURUSD,H4: Sell 64 Time :2018.09.21 20:00:00---->1
+0	19:16:33.002	TestBreakSignal AUDUSD,H4: Sell 94 Time :2018.09.14 20:00:00---->1
+0	19:16:33.002	TestBreakSignal AUDUSD,H4: Sell 95 Time :2018.09.14 16:00:00---->1
+0	19:16:33.002	TestBreakSignal AUDUSD,H4: Sell 96 Time :2018.09.14 12:00:00---->1
+0	19:16:33.003	TestBreakSignal EURUSD,H4: Sell 81 Time :2018.09.19 00:00:00---->1
+0	19:16:33.003	TestBreakSignal EURUSD,H4: Sell 82 Time :2018.09.18 20:00:00---->1
+0	19:16:33.003	TestBreakSignal AUDUSD,H4: Buy 108 Time :2018.09.12 12:00:00---->1
+0	19:16:33.003	TestBreakSignal AUDUSD,H4: Buy 109 Time :2018.09.12 08:00:00---->1
+0	19:16:33.003	TestBreakSignal EURUSD,H4: Sell 94 Time :2018.09.14 20:00:00---->1
+0	19:16:33.003	TestBreakSignal EURUSD,H4: Sell 95 Time :2018.09.14 16:00:00---->1
+0	19:16:33.003	TestBreakSignal AUDUSD,H4: initialized
+0	19:16:33.005	TestBreakSignal EURUSD,H4: Buy 118 Time :2018.09.10 20:00:00---->1
+0	19:16:33.005	TestBreakSignal EURUSD,H4: initialized
+0	19:16:33.034	Renko Mod EURUSD,M1: Chart window detected
+0	19:16:33.034	Renko Mod EURUSD,M1: initialized
+0	19:16:34.116	TestGenesis EURUSD,H4: buys ->  , 71 , 106 , 224 , 263 , 264 , 335 , 336 , 396 , 402 , 460 , 556 , 597 , 642 , 940 , 1024 , 1153 , 1154 , 1240 , 1261 , 1262 , 1276 , 1410 , 1448 , 1449 , 1474 , 1475 , 1546 , 1547 , 1586 , 1642 , 1731 , 1732 , 1761 , 1796 , 2012 , 2182 , 2183 , 2320 , 2348 , 2520 , 2521 , 2553 , 2622 , 2767 , 2864 , 2874 , 2886 , 2901 , 3038 , 3181 , 3212 , 3266 , 3318 , 3359 , 3417 , 3418 , 3432 , 3561 , 3562 , 3718 , 3837 , 3922 , 4044 , 4131 , 4149 , 4186 , 4252 , 4266 , 4286 , 4301 , 4323 , 4324 , 4354 , 4355 , 4432 , 4433 , 4493 , 4494 , 4508 , 4509 , 4575 , 4606 , 4720 , 4721 , 4748 , 4749 , 4782 , 4783 , 4891 , 4918 , 5148 , 5149 , 5186 , 5255 , 5256 , 5262 , 5372 , 5399 , 5400 , 5560 , 5606 , 5607 , 5667 , 5741 , 5979 , 5980 , 5993 , 5994 , 6053 , 6171 , 6172 , 6176 , 6213 , 6241 , 6276 , 6277 , 6331 , 6403 , 6404 , 6442 , 6443 , 6463 , 6584 , 6585 , 6629 , 6762 , 6763 , 6871 , 6889 , 6970 , 7037 , 7392 , 7395 , 7396 , 7430 , 7547 , 7548 , 7721 , 7722 , 7779 , 7887 , 8067 , 8068 , 8113 , 8377 , 8499 , 8525 , 8561 , 8607 , 8731 , 8732 , 8790 , 8791 , 8914 , 8959 , 8960 , 8989 , 8990 , 9175
+0	19:16:34.116	TestGenesis EURUSD,H4: sells ->  , 189 , 190 , 286 , 383 , 384 , 492 , 515 , 569 , 570 , 700 , 731 , 761 , 792 , 827 , 828 , 882 , 912 , 913 , 1051 , 1052 , 1083 , 1084 , 1130 , 1221 , 1329 , 1330 , 1368
+0	19:16:34.116	TestGenesis EURUSD,H4: initialized
