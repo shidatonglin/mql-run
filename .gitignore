@@ -1,0 +1,17 @@
+*.DS_Store
+*.config
+*.git
+*.xml
+/*deploy/
+/*templates/
+/*config
+/*debug/
+/*.sublime-project
+/*.sublime-workspace
+session.json
+*.config/
+*.stackdump
+*.page-meta.xml
+EWC_dev.iml
+IlluminatedCloud/
+.history/execute_anonymous.md
