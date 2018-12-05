@@ -4,3 +4,5 @@
 /tester
 /MQL4/Logs
 /config
+*.ex4
+*.chr
